@@ -8,6 +8,10 @@
     "dev": "nodemon ./src/bot.js",
     "start": "node ./src/bot.js"
   },
+  "devs": {
+    "nexoboi.nb": "588417556512243731",
+    "dragonscam": "762438352342614038"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
